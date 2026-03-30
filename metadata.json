@@ -1,0 +1,5 @@
+{
+  "name": "Access Drift Enterprise Dashboard",
+  "description": "A high-fidelity visualization platform for monitoring and analyzing identity access drift across enterprise applications.",
+  "requestFramePermissions": []
+}
